@@ -1,0 +1,3 @@
+include setup.py
+
+recursive-include totp_secret *.js *.html *.scss
